@@ -1,0 +1,46 @@
+Suite a la lecture d'excellent article sur les conditions des medecins en France aujourd'hui, il etait decrit que le dernier "medecin" qui s'en sortait en terme de position social, etait le radiologue. Nous preferons prevenir : la situation ca violement se degrader.
+
+Aujourd'hui on associe enormement l'intelligence artificielle a "Terminator". Un robot doue d'une intelligence propre, plus rapide, plus puissant et surtout qui pourrait detruire l'humanite.
+
+Quelques scientifiques parlent de cet avenir loingtain pour l'instant... mais peu s'occupe finalement concretement de l'impact de l'intelligence artificielle "aujourd'hui" et "demain" : Qu'es-ce que ca change au quotidien pour nous les citoyens.
+
+Tout d'abord il faut le dire il y a peut de chance que Terminator debarque demain dans votre salon. Disons que vous avez plus de chance aujourd'hui d'y croiser Swarzy que son "personnage". Quand on parle de nouvelles technologies un des sujets les plus interessant est son acceleration, plus que reellement son "niveau technologique" en soit.
+
+En 1997 en France le taux de penetration du mobile etait de 10%. Mais surtout il avait atteind pret de 50% en 2000. Vu qu'aujourd'hui le taux de penetration du telephone fixe est a 60% les plus fou des previsionnistes estimaient en 2000 que "si on atteignait 70% c'etait bien un maximum". Et la question quand ? La reponse etait toujours la meme : "puisque nous sommes a 50% aujourd'hui, nous devrions atteindre les 70% dans 10ans..." l'acceleration du taux de penetration baisse en arrivant a son maximum". 10 ans apres nous etions a un taux de penetration de 97.8%, et aujourd'hui 108% (source wikipedia). L'ecart entre les deux represente, juste pour la France, plus de 22 Millions d'appareil. A savoir donc que si on ne considere que le prix du telephone sans les APP et tout ce qu'il genere derriere : 285Euros (source Zdnet moyenne en france en 2013)... l'erreur de precision represente 6,2 Milliards d'euros ! Imaginez a l echelle de l'Europe.... des Etats-unis, de la Chine...
+
+Ces technologies sont dites "exponentielles", du nom de la formule qui represente acceleration de leur taux d'evolution.
+
+Si on prends la robotique... a savoir donc le corps de "terminator" il s'agit la d'une technologie qui n'est pas (ou pas encore) exponentielle. La difference entre un robot en 2000 et en 2016 ... n'est extraordinairement pas diffirente. Par contre en ce qui concerne son "cerveau" a savoir donc son "intelligence artificielle", on parle de technologies exponentielles. Mais pour l'instant nous ne sommes que au debut de la courbe d'acceleration vertigineuse.
+
+Et c'est bien pour cette raison que nous devont nous interesser a ce qui va ce passer, la maintenant, tout de suite, et non pas avoir les yeux braques vers un loingtain destin que personne ne sait calculer, ni meme imaginer, a part James Cameron et en film. 
+
+Nous ne sommes pas des "madammes soleil"... peut-etre cette courbe va prendre un coup de frein sans precedent... mais dans tous les cas ce qui nous interesse aujourd'hui c'est le futur tres proche.
+
+Comme vous l'avez compris, les intelligences artificielles sont des logiciels qui n'ont pas d'existence "physique". Ce ne sont pas des robots physique mais des logiciels qui tournent dans des centre de donnees, et nous en sommes qu'au debut de la capacites. L'intelligence articielle est un sujet extremement vaste, avec des ramifications dans tous les sens. Certaines de ces ramifications sont plus avancees que d'autre et il y en a une qui est tres avancee et en developpement ultra rapide : l'imagerie.
+
+Pour faire simple, une IA a besoin d'aprendre. Pour apprendre elle a besoin que vous lui montriez la voie a suivre (ceci est un poney, ceci est une voiture...). Et elle, elle apprends a les reconnaitres. Alors vous lui passer quelques images pour verifier si elle a bien compris etc... Or aujourd'hui tous le monde utilise des technologies genre instagram (facebook), ou google image ou icloud (apple) pour stocker ses images. En consequence de quoi, ces entreprises peuvent entrainer leur IA sur vos photos de vacances !
+
+Tout d'abord, ils vous remercient de servir leur interets. Mais surtout, personne a part eunt, ne connais pour l'instant les resultats d'un entrainement sur des millions de milliards d'image. Puisque seuls eux les ont. Ce qui est sur, c'est que de notre connaissance actuelle, ca va tres vite et les IA vont tres loin dans la reconnaissance d'image et millions d'autres fonctions. Tout cela est jalouseument garde par ces entreprises.
+
+En tous les cas ce que nous voudrions ici dire, c'est que tout metier relatif a de l'imagerie a du souci a se faire et nous pensons que des demain, des IA seront meilleurs que les radiologues. Elles pourrons traiter plus de radio, plus rapidement et 24h/24.
+
+Que cela va-il-changer ? Surement autant pour les radiologue que Mythic pour les agences matrimoniales. Alors l'ordre des medecins va sortir un avis disant qu'il est interdit d'utiliser des IA pour faire des radios. Histoires de proteger cette profession et nous comprennons parfaitement cet avis.
+
+Ou alors, maintenant que nous sommes prevenu, nous pourrions peut-etre changer quelque chose ? Mais quoi ? Nous l avons dit plus haut, pour apprendre les IA ont besoin qu on leur apprenne... Alors finalement ? Les IA peuvent assister les radiologues:  Plus vite, plus rapide, plus precis mais surtout les radiologues pourraient assister les IA ? La solution serait alors hybride.
+
+Mais comment faire ? Il faudrait former les radiologues a entrainer des IA. Et on arrive a second point le plus important de l'article... la formation.
+
+Nous voulons dire, prevenir, mettre en lumiere, qu'il est encore temps de rapidement changer certains pan de formation de certaines professions. La formation initiale bien sur, ou il nous semblerait utile que les radiologues comprennent le fonctionnement d'une IA pour qu'elles puissent les assister au mieux dans leur travail. Mais surtout la professionelle. Parce qu'il y a plus de radiologue en activite qu'en formation initiale. Sans quoi, comme d'habitude, nous allons nous retrouver dans un combat ... "ordre des medecins contre Google Appel Facebook Amazon" et franchement, nous pensons qu'ils peuvent gagner les premieres batailles. Interdire les IA, interdire la E-Sante... mais a la fin... l'IA gagnera.
+
+Alors plutot que de s'y prendre trop tard, nous demandons a tous les professionnels (car ce ne sera pas que la sante qui sera impactee), d'ajuster legerement et leurs formations initiales et surtout leurs formations professionelles.
+
+
+
+
+
+
+
+
+Ce fut rapide, puissant et personne j
+
+
